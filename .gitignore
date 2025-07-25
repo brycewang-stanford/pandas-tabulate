@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# PROJECT_SUMMARY.md - 开发总结文档，不推送到 GitHub
+PROJECT_SUMMARY.md
+
 # Distribution / packaging
 .Python
 build/

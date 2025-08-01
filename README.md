@@ -25,10 +25,10 @@ result = ptab.tabulate(df['var1'], df['var2'])
 
 **New:**
 ```bash
-pip install py-stata-commands
+pip install pystatar
 ```
 ```python
-from py_stata_commands import tabulate
+from pystatar import tabulate
 result = tabulate.tabulate(df['var1'], df['var2'])
 ```
 

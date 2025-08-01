@@ -1,6 +1,6 @@
 # ⚠️ ARCHIVED - This repository is no longer maintained
 
-**All functionality has been moved to [Py-Stata-Commands](https://github.com/brycewang-stanford/Py-Stata-Commands)**
+**All functionality has been moved to [PyStataR](https://github.com/brycewang-stanford/PyStataR)**
 
 ---
 
@@ -10,7 +10,7 @@
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**⚠️ MIGRATION NOTICE**: This package has been integrated into the unified **Py-Stata-Commands** package.
+**⚠️ MIGRATION NOTICE**: This package has been integrated into the unified **PyStataR** package.
 
 ## 🔄 Migration Instructions
 
@@ -43,7 +43,7 @@ The new unified package provides:
 ## 📖 New Documentation
 
 Visit the new repository for complete documentation:
-**https://github.com/brycewang-stanford/Py-Stata-Commands**
+**https://github.com/brycewang-stanford/PyStataR**
 
 ---
 
